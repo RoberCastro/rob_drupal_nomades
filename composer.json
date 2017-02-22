@@ -27,7 +27,8 @@
         "drupal/address": "~1.0",
         "drupal/pathauto": "^1.0@RC",
         "drupal/token": "^1.0@RC",
-        "drupal/ctools": "^3.0@alpha"
+        "drupal/ctools": "^3.0@alpha",
+        "php-http/httplug": "^1.1"
     },
     "require-dev": {
         "behat/mink": "~1.7",
